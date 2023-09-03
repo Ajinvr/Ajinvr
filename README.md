@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajin.vr
 - 👀 I’m interested in computers and servers
 - 🌱 I’m currently learning web development(MERN stack)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web apps
 - 📫 How to reach me ajinvr44@gmail.com
 
 <!---
