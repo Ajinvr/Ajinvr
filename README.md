@@ -4,7 +4,8 @@
  <div style="display: flex;gap: 50px;">
         <img src='https://memer-new.vercel.app/' style="height: 100px;"/>
         <img src='https://memer-new.vercel.app/' style="height: 100px;"/>
-    </div>)
+  </div>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ajinvr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ajinvr&theme=dark&hide_border=false)<br/>
